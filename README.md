@@ -35,28 +35,16 @@ Mitgliedschaften. 🌍💼
     -   [ ] Sozialversicherungsnummer (falls erforderlich)
 -   [ ] **Finanzamt**
     -   [ ] ELStAM-Datenbank prüfen
--   [ ] **Agentur für Arbeit und Jobcenter**
-    -   [ ] Sozialleistungsdaten
--   [ ] **Familienkasse**
-    -   [ ] Kindergeldanspruch
--   [ ] **Amt für Ausbildungsförderung (BAföG)**
-    -   [ ] BAföG-Daten
--   [ ] **Wohngeldstelle**
-    -   [ ] Wohngeld-Daten
+
 
 ### 👔 Arbeitgeber:in und Bildungseinrichtungen
 
 -   [ ] **Arbeitgeber:in**
     -   [ ] Arbeitsvertrag
-    -   [ ] Personalunterlagen
+    -   [x] Personalunterlagen
     -   [ ] Betriebliche Altersversorgung
 -   [ ] **Frühere Arbeitgeber:innen**
     -   [ ] Arbeitszeugnisse
--   [ ] **Bildungseinrichtungen**
-    -   [ ] Schüler:in- oder Studierendenausweis
--   [ ] **Berufs- und Fachverbände**
-    -   [ ] Zertifikate wie Gesellen-, Meister- oder
-        Facharbeiter:inbriefe
 -   [ ] **Frühere Bildungseinrichtungen**
     -   [ ] Schulzeugnisse
     -   [ ] Abschlussdokumente
@@ -64,23 +52,16 @@ Mitgliedschaften. 🌍💼
 
 ### 🏡 Wohn- und Mietverhältnisse
 
--   [ ] **Vermieter:in und Hausverwaltung**
-    -   [ ] Mietvertrag
 -   [ ] **Energieversorger**
     -   [ ] Stromvertrag
     -   [ ] Gasvertrag
     -   [ ] Wasservertrag
+    - Nachricht an GGEW 15.11. --> Warte auf Rückmeldung
 
 ### 🚉 Verkehrsmittel und öffentlicher Nahverkehr
 
--   [ ] **Öffentlicher Nahverkehr**
-    -   [ ] Monats- oder Jahreskarten
-    -   [ ] Deutschlandticket
--   [ ] **Deutsche Bahn**
-    -   [ ] BahnCard-Daten
--   [ ] **Kfz-Zulassungsstelle**
-    -   [ ] Fahrzeugbrief
-    -   [ ] Fahrzeugschein
+-   [x] **Deutsche Bahn**
+    -   [x] BahnCard-Daten
 -   [ ] **Führerscheinstelle**
     -   [ ] Führerschein
 
@@ -102,17 +83,6 @@ Mitgliedschaften. 🌍💼
     -   [ ] Kfz-Versicherung
     -   [ ] Private Rentenversicherungen (Rürüp, Riester etc.)
 
-### 🏢 Weitere amtliche Stellen und Register
-
--   [ ] **Amtsgericht**
-    -   [ ] Gerichtliche Urkunden (wenn möglich)
--   [ ] **Grundbuchamt**
-    -   [ ] Namen im Grundbuch
--   [ ] **Nachlassgericht**
-    -   [ ] Testament oder andere Dokumente
--   [ ] **Zentrales Vorsorgeregister**
-    -   [ ] Vorsorgevollmacht und Betreuungsverfügung
-
 ### 📞 Dienstleistungen und Abonnements
 
 -   [ ] **Telekommunikation**
@@ -124,7 +94,7 @@ Mitgliedschaften. 🌍💼
     -   [ ] Rundfunkbeitrag (ehemals GEZ)
 -   [ ] **Kund:innenkarten und Bonusprogramme**
     -   [ ] Kund:innenkarten bei Supermärkten
-    -   [ ] Bonusprogramme
+    -   [x] Bonusprogramme
 -   [ ] **Mitgliedschaften**
     -   [ ] Vereine
     -   [ ] Clubs und Fitnessstudios
