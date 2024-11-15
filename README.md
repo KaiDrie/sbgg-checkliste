@@ -30,7 +30,7 @@ Mitgliedschaften. 🌍💼
     -   [ ] Meldebescheinigung
     -   [ ] Eintrag im Melderegister überprüfen
 -   [ ] **Krankenkasse**
-    -   [ ] Neue Gesundheitskarte beantragen
+    -   [x] Neue Gesundheitskarte beantragen
 -   [ ] **Rentenversicherung**
     -   [ ] Sozialversicherungsnummer (falls erforderlich)
 -   [ ] **Finanzamt**
