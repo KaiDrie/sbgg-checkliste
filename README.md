@@ -65,6 +65,7 @@ Mitgliedschaften. 🌍💼
     -   [x] BahnCard-Daten
 -   [ ] **Führerscheinstelle**
     -   [ ] Führerschein
+    - Termin am 11.02.
 
 ### 💳 Banken und Versicherungen
 
