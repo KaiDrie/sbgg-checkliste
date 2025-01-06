@@ -25,16 +25,16 @@ Mitgliedschaften. 🌍💼
 ### 🏛️ Amtliche Stellen und soziale Versicherungen
 
 -   [ ] **Standesamt und Meldebehörde/Bürgerbüro**
-    -   [ ] Personalausweis
+    -   [x] Personalausweis
     -   [ ] Reisepass
-    -   [ ] Meldebescheinigung
-    -   [ ] Eintrag im Melderegister überprüfen
--   [ ] **Krankenkasse**
+    -   [x] Meldebescheinigung
+    -   [x] Eintrag im Melderegister überprüfen
+-   [x] **Krankenkasse**
     -   [x] Neue Gesundheitskarte beantragen
--   [ ] **Rentenversicherung**
-    -   [ ] Sozialversicherungsnummer (falls erforderlich)
--   [ ] **Finanzamt**
-    -   [ ] ELStAM-Datenbank prüfen
+-   [x] **Rentenversicherung**
+    -   [x] Sozialversicherungsnummer (falls erforderlich)
+-   [x] **Finanzamt**
+    -   [x] ELStAM-Datenbank prüfen
 
 
 ### 👔 Arbeitgeber:in und Bildungseinrichtungen
@@ -42,7 +42,7 @@ Mitgliedschaften. 🌍💼
 -   [ ] **Arbeitgeber:in**
     -   [ ] Arbeitsvertrag
     -   [x] Personalunterlagen
-    -   [ ] Betriebliche Altersversorgung
+    -   [x] Betriebliche Altersversorgung
 -   [ ] **Frühere Arbeitgeber:innen**
     -   [ ] Arbeitszeugnisse
 -   [ ] **Frühere Bildungseinrichtungen**
@@ -69,7 +69,7 @@ Mitgliedschaften. 🌍💼
 
 -   [ ] **Banken und Sparkassen**
     -   [ ] Girokonto
-    -   [ ] Kreditkarten
+    -   [x] Kreditkarten
     -   [ ] Sparbuch oder -vertrag
     -   [ ] Bausparvertrag
     -   [ ] Aktiendepot
