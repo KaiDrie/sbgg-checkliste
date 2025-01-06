@@ -57,6 +57,7 @@ Mitgliedschaften. 🌍💼
     -   [ ] Gasvertrag
     -   [ ] Wasservertrag
     - Nachricht an GGEW 15.11. --> Warte auf Rückmeldung
+    - nochmal Nachricht am 6.1., jetzt mit Foto vom Perso
 
 ### 🚉 Verkehrsmittel und öffentlicher Nahverkehr
 
