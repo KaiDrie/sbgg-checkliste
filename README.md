@@ -105,7 +105,9 @@ Mitgliedschaften. 🌍💼
 
 ### 📂 Spezielle Dokumente und Sonderfälle
 
--   [ ] **Versicherungsbescheinigungen**
+- [x] DHL
+
+**Versicherungsbescheinigungen**
     -   [ ] Besondere Versicherungen für z.B. Auslandsreisen
 -   [ ] **Medizinische Einrichtungen**
     -   [ ] Patientenakten und Aufzeichnungen
