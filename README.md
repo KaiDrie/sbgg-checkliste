@@ -87,10 +87,10 @@ Mitgliedschaften. 🌍💼
 
 ### 📞 Dienstleistungen und Abonnements
 
--   [ ] **Telekommunikation**
-    -   [ ] Festnetzvertrag
+-   [x] **Telekommunikation**
+    -   [x] Festnetzvertrag
     -   [ ] Mobilfunkvertrag
-    -   [ ] Internetvertrag
+    -   [x] Internetvertrag
     -   [ ] Domainregistrare (DENIC etc.)
 -   [ ] **ARD ZDF Deutschlandradio Beitragsservice**
     -   [ ] Rundfunkbeitrag (ehemals GEZ)
@@ -98,9 +98,9 @@ Mitgliedschaften. 🌍💼
     -   [ ] Kund:innenkarten bei Supermärkten
     -   [x] Bonusprogramme
 -   [ ] **Mitgliedschaften**
-    -   [ ] Vereine
+    -   [x] Vereine
     -   [ ] Clubs und Fitnessstudios
-    -   [ ] Streaming-Dienste
+    -   [x] Streaming-Dienste
     -   [ ] Bibliotheksausweis
 
 ### 📂 Spezielle Dokumente und Sonderfälle
