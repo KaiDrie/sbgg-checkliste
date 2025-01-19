@@ -47,7 +47,7 @@ Mitgliedschaften. 🌍💼
     -   [ ] Arbeitszeugnisse
 -   [ ] **Frühere Bildungseinrichtungen**
     -   [ ] Schulzeugnisse
-    -   [ ] Abschlussdokumente
+    -   [x] Abschlussdokumente
     -   [ ] Weiterbildungsnachweise
 
 ### 🏡 Wohn- und Mietverhältnisse
@@ -70,9 +70,9 @@ Mitgliedschaften. 🌍💼
 ### 💳 Banken und Versicherungen
 
 -   [ ] **Banken und Sparkassen**
-    -   [ ] Girokonto
+    -   [x] Girokonto
     -   [x] Kreditkarten
-    -   [ ] Sparbuch oder -vertrag
+    -   [x] Sparbuch oder -vertrag
     -   [ ] Bausparvertrag
     -   [ ] Aktiendepot
 -   [ ] **Private Versicherungen**
@@ -93,7 +93,7 @@ Mitgliedschaften. 🌍💼
     -   [x] Internetvertrag
     -   [ ] Domainregistrare (DENIC etc.)
 -   [ ] **ARD ZDF Deutschlandradio Beitragsservice**
-    -   [ ] Rundfunkbeitrag (ehemals GEZ)
+    -   [x] Rundfunkbeitrag (ehemals GEZ)
 -   [ ] **Kund:innenkarten und Bonusprogramme**
     -   [ ] Kund:innenkarten bei Supermärkten
     -   [x] Bonusprogramme
